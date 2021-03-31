@@ -1,0 +1,35 @@
+{
+  "name": "djs-handler",
+  "version": "0.1.0",
+  "description": "Discord.js Example Command Handler",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.0",
+    "walk": "^2.3.14"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eslachance/djs-handler.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord.js",
+    "command",
+    "handler"
+  ],
+  "author": "Évelyne Lachance",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eslachance/djs-handler/issues"
+  },
+  "homepage": "https://github.com/eslachance/djs-handler#readme"
+}
